@@ -36,19 +36,40 @@ function initTheme() {
 
 function getFuelIcon(fuelName) {
     const lower = fuelName.toLowerCase();
-    if (lower.includes('petrol') || lower.includes('e85')) return '⛽';
-    if (lower.includes('diesel')) return '🛢️';
-    if (lower.includes('xp') || lower.includes('xtra') || lower.includes('speed')) return '⚡';
-    return '💧';
+    let isPetrol = lower.includes('petrol') || lower.includes('xp') || lower.includes('speed') || lower.includes('power') || lower.includes('e85');
+    let isDiesel = lower.includes('diesel') || lower.includes('xtragreen') || lower.includes('turbojet');
+    
+    if (!isPetrol && !isDiesel) isPetrol = true; // default
+    
+    let fuelClass = isDiesel ? 'fuel-diesel' : 'fuel-petrol';
+    let typeClass = 'fuel-standard';
+    
+    if (lower.includes('xp') || lower.includes('power') || lower.includes('speed')) {
+        typeClass = 'fuel-premium';
+    } else if (lower.includes('xtragreen') || lower.includes('e85')) {
+        typeClass = 'fuel-eco';
+    }
+    
+    return `<span class="icon-wrapper ${typeClass} ${fuelClass}"><i data-lucide="fuel"></i></span>`;
 }
 
 function getCompanyIcon(companyName) {
     const lower = companyName.toLowerCase();
-    if (lower.includes('iocl')) return '🟠';
-    if (lower.includes('bpcl')) return '🟡';
-    if (lower.includes('hpcl')) return '🔵';
-    if (lower.includes('shell')) return '🐚';
-    return '🏢';
+    if (lower.includes('iocl')) return `<img src="assets/logos/iocl.svg" alt="IOCL" class="company-logo-img">`;
+    if (lower.includes('bpcl')) return `<img src="assets/logos/bpcl.svg" alt="BPCL" class="company-logo-img">`;
+    if (lower.includes('hpcl')) return `<img src="assets/logos/hpcl.svg" alt="HPCL" class="company-logo-img">`;
+    return `<div class="company-logo">🏢</div>`;
+}
+
+function getFormattedFuelName(fuelName) {
+    const lower = fuelName.toLowerCase();
+    const isPetrol = lower.includes('petrol') || lower.includes('xp') || lower.includes('speed') || lower.includes('power') || lower.includes('e85');
+    const isDiesel = lower.includes('diesel') || lower.includes('xtragreen') || lower.includes('turbojet');
+    
+    // Only append if the name doesn't already clearly state it
+    if (isPetrol && !lower.includes('petrol')) return `${fuelName} <small style="opacity: 0.6; font-size: 0.85em;">(Petrol)</small>`;
+    if (isDiesel && !lower.includes('diesel')) return `${fuelName} <small style="opacity: 0.6; font-size: 0.85em;">(Diesel)</small>`;
+    return fuelName;
 }
 
 function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
@@ -280,6 +301,10 @@ function router() {
     } else {
         renderPricingCards(contentDiv);
     }
+    
+    if (window.lucide) {
+        lucide.createIcons();
+    }
 }
 
 // ---------------- PRICING CARDS (HOME) ----------------
@@ -328,7 +353,7 @@ function renderPricingCards(container) {
                 <div class="fuel-item">
                     <div class="fuel-info">
                         ${getFuelIcon(fuel)} 
-                        <span>${fuel}</span>
+                        <span>${getFormattedFuelName(fuel)}</span>
                     </div>
                     <div class="fuel-price-wrapper">
                         <div class="fuel-price ${priceClass}">₹${price}</div>
