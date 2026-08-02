@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuel Price Tracker | Real-time Fuel Prices</title>
+    <meta name="description" content="Track daily fuel prices across different cities and oil companies in India.">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="#/" class="logo">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 22v-8c0-1.1.9-2 2-2h14a2 2 0 0 1 2 2v8"/><path d="M7 12V4c0-1.1.9-2 2-2h6a2 2 0 0 1 2 2v8"/><path d="M12 12v10"/><path d="M9 12v10"/><path d="M15 12v10"/></svg>
+                FuelTracker
+            </a>
+            <div class="nav-controls">
+                <div class="location-selector">
+                    <span class="icon">📍</span>
+                    <select id="state-select" aria-label="Select State">
+                        <option value="">Select State</option>
+                    </select>
+                    <select id="city-select" aria-label="Select City">
+                        <option value="">Select City</option>
+                    </select>
+                </div>
+                <a href="#/" class="nav-link">Home</a>
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme">
+                    <span id="theme-icon">☀️</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <main id="app-content" class="container">
+        <div class="loader">Detecting location & loading data...</div>
+    </main>
+    <footer>
+        <p>Updated daily.</p>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+</html>
