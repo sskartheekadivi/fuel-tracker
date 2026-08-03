@@ -1,7 +1,7 @@
 import json
 import os
 import glob
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import pytz
@@ -81,7 +81,7 @@ def parse_iocl_dynamic(html_content, req_headers):
                                 "User-Agent": req_headers.get('User-Agent', 'Mozilla/5.0'),
                                 "Referer": "https://locator.iocl.com/"
                             }
-                            res = requests.get(price_url, headers=headers, timeout=10)
+                            res = requests.get(price_url, headers=headers, timeout=10, impersonate="chrome110")
                             res.raise_for_status()
                             
                             # parse with our existing HTML parser
@@ -146,7 +146,7 @@ def parse_hpcl_dynamic(html_content, req_headers):
                 "User-Agent": req_headers.get('User-Agent', 'Mozilla/5.0'),
                 "Referer": "https://petrolpump.hpretail.in/"
             }
-            res = requests.get(price_url, headers=headers, timeout=10)
+            res = requests.get(price_url, headers=headers, timeout=10, impersonate="chrome110")
             res.raise_for_status()
             
             pump_prices = parse_hpcl_html(res.text)
@@ -220,7 +220,8 @@ def main():
                     method=req_info.get('method', 'GET'),
                     url=url,
                     headers=req_info.get('headers', {}),
-                    timeout=10
+                    timeout=10,
+                    impersonate="chrome110"
                 )
                 response.raise_for_status()
                 
