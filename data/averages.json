@@ -23,24 +23,24 @@
         "XtraGreen": 110.08
       },
       "HPCL": {
-        "Petrol": 117.17,
-        "Diesel": 104.89,
-        "Power95": 127.19,
-        "TurboJet": 108.5
+        "Petrol": 117.19,
+        "Diesel": 104.9,
+        "Power95": 127.2,
+        "TurboJet": 108.51
       }
     },
     "Itanagar": {
       "IOCL": {
-        "Petrol": 97.75,
-        "Diesel": 87.15,
+        "Petrol": 97.74,
+        "Diesel": 87.14,
         "XP95": 103.71,
         "XtraGreen": 92.16
       },
       "HPCL": {
-        "Petrol": 97.81,
-        "Diesel": 87.2,
-        "Power95": 106.8,
-        "TurboJet": 90.15
+        "Petrol": 97.84,
+        "Diesel": 87.22,
+        "Power95": 106.83,
+        "TurboJet": 90.17
       }
     },
     "Guwahati": {
@@ -125,7 +125,7 @@
     "Panaji": {
       "IOCL": {
         "Petrol": 103.91,
-        "Diesel": 95.8,
+        "Diesel": 95.79,
         "XP100": 167.35,
         "XP95": 112.82
       },
@@ -158,10 +158,10 @@
         "XP95": 110.23
       },
       "HPCL": {
-        "Petrol": 101.89,
-        "Diesel": 98.02,
-        "Power95": 111.22,
-        "TurboJet": 101.53,
+        "Petrol": 101.9,
+        "Diesel": 98.03,
+        "Power95": 111.23,
+        "TurboJet": 101.54,
         "Power99": 141.77
       }
     },
@@ -172,10 +172,10 @@
         "XP95": 110.02
       },
       "HPCL": {
-        "Petrol": 101.47,
-        "Diesel": 97.59,
-        "Power95": 110.8,
-        "TurboJet": 101.1
+        "Petrol": 101.46,
+        "Diesel": 97.57,
+        "Power95": 110.78,
+        "TurboJet": 101.09
       }
     },
     "Rajkot": {
@@ -186,10 +186,10 @@
         "XtraGreen": 102.96
       },
       "HPCL": {
-        "Petrol": 101.57,
-        "Diesel": 97.7,
-        "Power95": 110.89,
-        "TurboJet": 101.21
+        "Petrol": 101.58,
+        "Diesel": 97.72,
+        "Power95": 110.91,
+        "TurboJet": 101.23
       }
     },
     "Gurugram": {
@@ -209,17 +209,17 @@
         "XtraGreen": 101.26
       },
       "HPCL": {
-        "Petrol": 103.2,
-        "Diesel": 95.86,
-        "Power95": 112.84,
-        "TurboJet": 99.54,
+        "Petrol": 103.22,
+        "Diesel": 95.88,
+        "Power95": 112.86,
+        "TurboJet": 99.57,
         "Power100": 168.0
       }
     },
     "Shimla": {
       "IOCL": {
         "Petrol": 103.04,
-        "Diesel": 94.99,
+        "Diesel": 94.98,
         "XP95": 111.8,
         "XtraGreen": 100.29
       },
@@ -268,7 +268,7 @@
         "XtraGreen": 106.51
       },
       "HPCL": {
-        "Petrol": 105.79,
+        "Petrol": 105.78,
         "Diesel": 100.98,
         "Power95": 115.47,
         "TurboJet": 104.64
@@ -329,8 +329,8 @@
       "HPCL": {
         "Petrol": 113.48,
         "Diesel": 102.4,
-        "Power95": 118.74,
-        "TurboJet": 102.58,
+        "Power95": 117.13,
+        "TurboJet": 101.43,
         "Power99": 166.93
       }
     },
@@ -358,10 +358,10 @@
         "XP100": 167.35
       },
       "HPCL": {
-        "Petrol": 114.52,
-        "Diesel": 99.65,
-        "Power95": 124.78,
-        "TurboJet": 103.21
+        "Petrol": 114.51,
+        "Diesel": 99.64,
+        "Power95": 124.77,
+        "TurboJet": 103.2
       }
     },
     "Bhopal": {
@@ -386,9 +386,9 @@
       },
       "HPCL": {
         "Petrol": 114.57,
-        "Diesel": 99.69,
+        "Diesel": 99.7,
         "Power95": 124.83,
-        "TurboJet": 103.23
+        "TurboJet": 103.24
       }
     },
     "Gwalior": {
@@ -399,10 +399,10 @@
         "XtraGreen": 104.84
       },
       "HPCL": {
-        "Petrol": 114.35,
-        "Diesel": 99.47,
-        "Power95": 124.62,
-        "TurboJet": 103.02
+        "Petrol": 114.34,
+        "Diesel": 99.46,
+        "Power95": 124.61,
+        "TurboJet": 103.01
       }
     },
     "Mumbai": {
@@ -431,9 +431,9 @@
         "XtraGreen": 103.39
       },
       "HPCL": {
-        "Petrol": 111.97,
+        "Petrol": 111.98,
         "Diesel": 98.6,
-        "Power95": 121.72,
+        "Power95": 121.73,
         "TurboJet": 102.13,
         "Power100": 168.0
       }
@@ -462,10 +462,10 @@
         "XtraGreen": 104.31
       },
       "HPCL": {
-        "Petrol": 112.33,
-        "Diesel": 98.97,
-        "Power95": 122.05,
-        "TurboJet": 102.53
+        "Petrol": 112.32,
+        "Diesel": 98.96,
+        "Power95": 122.04,
+        "TurboJet": 102.52
       }
     },
     "Aurangabad": {
@@ -476,10 +476,10 @@
         "XtraGreen": 104.72
       },
       "HPCL": {
-        "Petrol": 112.14,
-        "Diesel": 98.79,
-        "Power95": 121.86,
-        "TurboJet": 102.35
+        "Petrol": 112.18,
+        "Diesel": 98.82,
+        "Power95": 121.9,
+        "TurboJet": 102.39
       }
     },
     "Imphal": {
@@ -508,8 +508,8 @@
         "Petrol": 106.55,
         "Diesel": 95.17,
         "XP95": 115.19,
-        "XtraGreen": 100.15,
-        "XP100": 167.35
+        "XP100": 167.35,
+        "XtraGreen": 100.15
       },
       "HPCL": {
         "Petrol": 106.48,
@@ -522,8 +522,8 @@
       "IOCL": {
         "Petrol": 104.87,
         "Diesel": 96.16,
-        "XP95": 111.06,
         "XtraGreen": 101.45,
+        "XP95": 111.06,
         "XP100": 167.35
       },
       "HPCL": {
@@ -541,10 +541,10 @@
         "XtraGreen": 100.51
       },
       "HPCL": {
-        "Petrol": 103.92,
-        "Diesel": 95.43,
-        "Power95": 113.6,
-        "TurboJet": 99.09
+        "Petrol": 104.17,
+        "Diesel": 95.64,
+        "Power95": 113.84,
+        "TurboJet": 99.29
       }
     },
     "Bhubaneswar": {
@@ -568,10 +568,10 @@
         "XP95": 118.65
       },
       "HPCL": {
-        "Petrol": 109.24,
-        "Diesel": 100.94,
-        "Power95": 119.31,
-        "TurboJet": 104.64
+        "Petrol": 109.25,
+        "Diesel": 100.95,
+        "Power95": 119.32,
+        "TurboJet": 104.66
       }
     },
     "Ludhiana": {
@@ -581,10 +581,10 @@
         "XP95": 114.19
       },
       "HPCL": {
-        "Petrol": 105.43,
-        "Diesel": 95.35,
-        "Power95": 114.81,
-        "TurboJet": 98.83
+        "Petrol": 105.4,
+        "Diesel": 95.32,
+        "Power95": 114.78,
+        "TurboJet": 98.8
       }
     },
     "Amritsar": {
@@ -593,10 +593,10 @@
         "Diesel": 95.47
       },
       "HPCL": {
-        "Petrol": 105.43,
-        "Diesel": 95.36,
-        "Power95": 114.81,
-        "TurboJet": 98.83
+        "Petrol": 105.39,
+        "Diesel": 95.32,
+        "Power95": 114.77,
+        "TurboJet": 98.8
       }
     },
     "Jalandhar": {
@@ -625,7 +625,7 @@
         "Diesel": 97.81,
         "Power95": 122.94,
         "TurboJet": 101.35,
-        "Power99": 165.2,
+        "Power99": 165.23,
         "Power100": 168.0
       }
     },
@@ -637,10 +637,10 @@
         "XtraGreen": 103.08
       },
       "HPCL": {
-        "Petrol": 112.39,
-        "Diesel": 97.55,
-        "Power95": 122.64,
-        "TurboJet": 101.11
+        "Petrol": 112.41,
+        "Diesel": 97.56,
+        "Power95": 122.66,
+        "TurboJet": 101.12
       }
     },
     "Udaipur": {
@@ -666,10 +666,10 @@
         "XP95": 121.52
       },
       "HPCL": {
-        "Petrol": 112.46,
-        "Diesel": 97.59,
-        "Power95": 122.71,
-        "TurboJet": 101.15
+        "Petrol": 112.25,
+        "Diesel": 97.4,
+        "Power95": 122.49,
+        "TurboJet": 100.96
       }
     },
     "Gangtok": {
@@ -701,10 +701,10 @@
         "XtraGreen": 105.05
       },
       "HPCL": {
-        "Petrol": 108.78,
-        "Diesel": 100.6,
-        "Power95": 117.59,
-        "TurboJet": 103.9,
+        "Petrol": 108.81,
+        "Diesel": 100.63,
+        "Power95": 117.62,
+        "TurboJet": 103.93,
         "Power99": 150.77
       }
     },
@@ -730,10 +730,10 @@
         "XtraGreen": 105.04
       },
       "HPCL": {
-        "Petrol": 108.39,
-        "Diesel": 100.23,
-        "Power95": 117.21,
-        "TurboJet": 103.53
+        "Petrol": 108.62,
+        "Diesel": 100.44,
+        "Power95": 117.44,
+        "TurboJet": 103.74
       }
     },
     "Hyderabad": {
@@ -779,10 +779,10 @@
         "XtraGreen": 100.97
       },
       "HPCL": {
-        "Petrol": 101.84,
-        "Diesel": 95.33,
-        "Power95": 111.22,
-        "TurboJet": 98.87
+        "Petrol": 101.85,
+        "Diesel": 95.34,
+        "Power95": 111.23,
+        "TurboJet": 98.88
       }
     },
     "Kanpur": {
@@ -846,12 +846,12 @@
         "XtraGreen": 101.17
       },
       "HPCL": {
-        "Petrol": 102.14,
-        "Diesel": 95.6,
-        "Power95": 111.52,
-        "TurboJet": 99.15,
-        "Power99": 142.15,
-        "Power100": 168.0
+        "Petrol": 102.17,
+        "Diesel": 95.63,
+        "Power95": 111.55,
+        "TurboJet": 99.18,
+        "Power100": 168.0,
+        "Power99": 142.15
       }
     },
     "Dehradun": {
@@ -869,18 +869,18 @@
       }
     },
     "Kolkata": {
+      "HPCL": {
+        "Petrol": 113.55,
+        "Diesel": 99.9,
+        "Power95": 123.78,
+        "TurboJet": 103.43,
+        "Power100": 168.0
+      },
       "IOCL": {
         "Petrol": 113.47,
         "Diesel": 99.82,
         "XP95": 123.01,
         "XtraGreen": 105.11
-      },
-      "HPCL": {
-        "Petrol": 113.55,
-        "Diesel": 99.89,
-        "Power95": 123.78,
-        "TurboJet": 103.42,
-        "Power100": 168.0
       }
     },
     "Howrah": {
@@ -925,8 +925,8 @@
       "IOCL": {
         "Petrol": 101.54,
         "Diesel": 89.47,
-        "XP100": 167.35,
-        "XP95": 110.28
+        "XP95": 110.28,
+        "XP100": 167.35
       },
       "HPCL": {
         "Petrol": 101.5,
@@ -1027,7 +1027,7 @@
         "Power95": 126.39,
         "TurboJet": 107.71,
         "Power99": 160.1,
-        "Power100": 171.5
+        "Power100": 171.0
       }
     },
     "Vijayawada": {
@@ -1046,15 +1046,15 @@
     },
     "Itanagar": {
       "IOCL": {
-        "Petrol": 97.85,
-        "Diesel": 87.23,
+        "Petrol": 97.84,
+        "Diesel": 87.22,
         "XP95": 103.71,
         "XtraGreen": 92.16
       },
       "HPCL": {
         "Petrol": 97.79,
         "Diesel": 87.19,
-        "Power95": 106.78,
+        "Power95": 106.79,
         "TurboJet": 90.13
       }
     },
@@ -1131,10 +1131,10 @@
         "XtraGreen": 106.93
       },
       "HPCL": {
-        "Petrol": 106.77,
-        "Diesel": 100.15,
-        "Power95": 116.08,
-        "TurboJet": 103.75
+        "Petrol": 107.06,
+        "Diesel": 100.41,
+        "Power95": 116.43,
+        "TurboJet": 104.01
       }
     },
     "Panaji": {
@@ -1173,10 +1173,10 @@
         "XP95": 110.23
       },
       "HPCL": {
-        "Petrol": 101.9,
-        "Diesel": 98.03,
-        "Power95": 111.23,
-        "TurboJet": 101.54,
+        "Petrol": 101.89,
+        "Diesel": 98.02,
+        "Power95": 111.22,
+        "TurboJet": 101.53,
         "Power99": 141.77
       }
     },
@@ -1224,11 +1224,11 @@
         "XtraGreen": 101.26
       },
       "HPCL": {
-        "Petrol": 103.2,
+        "Petrol": 103.21,
         "Diesel": 95.86,
-        "Power95": 112.84,
-        "TurboJet": 99.54,
-        "Power100": 170.78
+        "Power95": 112.85,
+        "TurboJet": 99.55,
+        "Power100": 170.38
       }
     },
     "Shimla": {
@@ -1239,25 +1239,25 @@
         "XtraGreen": 100.31
       },
       "HPCL": {
-        "Petrol": 103.1,
-        "Diesel": 95.14,
+        "Petrol": 103.09,
+        "Diesel": 95.13,
         "Power95": 112.33,
-        "TurboJet": 98.59
+        "TurboJet": 98.58
       }
     },
     "Ranchi": {
       "IOCL": {
-        "Petrol": 105.55,
-        "Diesel": 100.77,
-        "XP95": 114.45,
+        "Petrol": 105.56,
+        "Diesel": 100.79,
+        "XP95": 114.47,
         "XP100": 167.35,
-        "XtraGreen": 106.27
+        "XtraGreen": 106.29
       },
       "HPCL": {
-        "Petrol": 105.62,
-        "Diesel": 100.83,
-        "Power95": 115.32,
-        "TurboJet": 104.51
+        "Petrol": 105.61,
+        "Diesel": 100.82,
+        "Power95": 115.31,
+        "TurboJet": 104.5
       }
     },
     "Jamshedpur": {
@@ -1277,16 +1277,16 @@
     },
     "Dhanbad": {
       "IOCL": {
-        "Petrol": 105.64,
-        "Diesel": 100.86,
-        "XP95": 114.54,
-        "XtraGreen": 106.36
+        "Petrol": 105.67,
+        "Diesel": 100.88,
+        "XP95": 114.57,
+        "XtraGreen": 106.39
       },
       "HPCL": {
-        "Petrol": 105.63,
-        "Diesel": 100.83,
-        "Power95": 115.32,
-        "TurboJet": 104.49
+        "Petrol": 105.65,
+        "Diesel": 100.84,
+        "Power95": 115.34,
+        "TurboJet": 104.51
       }
     },
     "Bengaluru": {
@@ -1344,8 +1344,8 @@
       "HPCL": {
         "Petrol": 113.48,
         "Diesel": 102.4,
-        "Power95": 117.18,
-        "TurboJet": 101.47,
+        "Power95": 116.81,
+        "TurboJet": 101.21,
         "Power99": 166.93
       }
     },
@@ -1414,9 +1414,9 @@
         "XtraGreen": 104.84
       },
       "HPCL": {
-        "Petrol": 114.31,
+        "Petrol": 114.32,
         "Diesel": 99.44,
-        "Power95": 124.58,
+        "Power95": 124.59,
         "TurboJet": 102.99
       }
     },
@@ -1434,7 +1434,7 @@
         "Power95": 120.88,
         "TurboJet": 101.35,
         "Power99": 152.97,
-        "Power100": 171.05
+        "Power100": 170.62
       }
     },
     "Pune": {
@@ -1450,7 +1450,7 @@
         "Diesel": 98.61,
         "Power95": 121.77,
         "TurboJet": 102.14,
-        "Power100": 171.37
+        "Power100": 170.89
       }
     },
     "Nagpur": {
@@ -1523,8 +1523,8 @@
         "Petrol": 106.55,
         "Diesel": 95.17,
         "XP95": 115.19,
-        "XtraGreen": 100.15,
-        "XP100": 167.35
+        "XP100": 167.35,
+        "XtraGreen": 100.15
       },
       "HPCL": {
         "Petrol": 106.42,
@@ -1537,8 +1537,8 @@
       "IOCL": {
         "Petrol": 104.87,
         "Diesel": 96.16,
-        "XP95": 111.06,
         "XtraGreen": 101.45,
+        "XP95": 111.06,
         "XP100": 167.35
       },
       "HPCL": {
@@ -1556,10 +1556,10 @@
         "XtraGreen": 100.51
       },
       "HPCL": {
-        "Petrol": 103.9,
-        "Diesel": 95.41,
-        "Power95": 113.58,
-        "TurboJet": 99.07
+        "Petrol": 103.96,
+        "Diesel": 95.46,
+        "Power95": 113.64,
+        "TurboJet": 99.12
       }
     },
     "Bhubaneswar": {
@@ -1583,10 +1583,10 @@
         "XP95": 118.65
       },
       "HPCL": {
-        "Petrol": 109.16,
-        "Diesel": 100.87,
-        "Power95": 119.23,
-        "TurboJet": 104.57
+        "Petrol": 109.17,
+        "Diesel": 100.88,
+        "Power95": 119.24,
+        "TurboJet": 104.58
       }
     },
     "Ludhiana": {
@@ -1599,7 +1599,7 @@
         "Petrol": 105.4,
         "Diesel": 95.32,
         "Power95": 114.78,
-        "TurboJet": 98.8
+        "TurboJet": 98.79
       }
     },
     "Amritsar": {
@@ -1608,9 +1608,9 @@
         "Diesel": 95.47
       },
       "HPCL": {
-        "Petrol": 105.42,
-        "Diesel": 95.35,
-        "Power95": 114.8,
+        "Petrol": 105.41,
+        "Diesel": 95.34,
+        "Power95": 114.79,
         "TurboJet": 98.82
       }
     },
@@ -1622,10 +1622,10 @@
         "XtraGreen": 100.12
       },
       "HPCL": {
-        "Petrol": 104.93,
-        "Diesel": 94.87,
-        "Power95": 114.31,
-        "TurboJet": 98.35
+        "Petrol": 104.9,
+        "Diesel": 94.84,
+        "Power95": 114.28,
+        "TurboJet": 98.32
       }
     },
     "Jaipur": {
@@ -1641,7 +1641,7 @@
         "Power95": 122.94,
         "TurboJet": 101.36,
         "Power99": 165.23,
-        "Power100": 170.77
+        "Power100": 170.38
       }
     },
     "Jodhpur": {
@@ -1653,7 +1653,7 @@
       },
       "HPCL": {
         "Petrol": 112.62,
-        "Diesel": 97.76,
+        "Diesel": 97.77,
         "Power95": 122.87,
         "TurboJet": 101.32
       }
@@ -1716,10 +1716,10 @@
         "XtraGreen": 105.05
       },
       "HPCL": {
-        "Petrol": 108.62,
-        "Diesel": 100.44,
-        "Power95": 117.43,
-        "TurboJet": 103.74,
+        "Petrol": 108.63,
+        "Diesel": 100.45,
+        "Power95": 117.44,
+        "TurboJet": 103.75,
         "Power99": 150.77
       }
     },
@@ -1731,7 +1731,7 @@
         "XtraGreen": 105.3
       },
       "HPCL": {
-        "Petrol": 108.43,
+        "Petrol": 108.42,
         "Diesel": 100.27,
         "Power95": 117.24,
         "TurboJet": 103.57
@@ -1862,11 +1862,11 @@
       },
       "HPCL": {
         "Petrol": 102.15,
-        "Diesel": 95.6,
-        "Power95": 111.52,
-        "TurboJet": 99.15,
-        "Power99": 142.15,
-        "Power100": 171.23
+        "Diesel": 95.61,
+        "Power95": 111.53,
+        "TurboJet": 99.16,
+        "Power100": 170.77,
+        "Power99": 142.15
       }
     },
     "Dehradun": {
@@ -1877,25 +1877,25 @@
         "XtraGreen": 101.53
       },
       "HPCL": {
-        "Petrol": 100.68,
-        "Diesel": 96.06,
-        "Power95": 109.87,
-        "TurboJet": 99.56
+        "Petrol": 100.64,
+        "Diesel": 96.03,
+        "Power95": 109.83,
+        "TurboJet": 99.52
       }
     },
     "Kolkata": {
+      "HPCL": {
+        "Petrol": 113.51,
+        "Diesel": 99.85,
+        "Power95": 123.74,
+        "TurboJet": 103.38,
+        "Power100": 168.0
+      },
       "IOCL": {
         "Petrol": 113.47,
         "Diesel": 99.82,
         "XP95": 123.01,
         "XtraGreen": 105.11
-      },
-      "HPCL": {
-        "Petrol": 113.5,
-        "Diesel": 99.85,
-        "Power95": 123.73,
-        "TurboJet": 103.38,
-        "Power100": 168.0
       }
     },
     "Howrah": {
@@ -1940,8 +1940,8 @@
       "IOCL": {
         "Petrol": 101.54,
         "Diesel": 89.47,
-        "XP100": 167.35,
         "XP95": 110.28,
+        "XP100": 167.35,
         "XtraGreen": 94.65
       },
       "HPCL": {
@@ -1974,7 +1974,7 @@
         "Power95": 111.83,
         "TurboJet": 98.98,
         "Power99": 142.55,
-        "Power100": 167.86
+        "Power100": 167.88
       }
     },
     "Srinagar": {
