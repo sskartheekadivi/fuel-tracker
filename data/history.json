@@ -77800,5 +77800,618 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-10-24",
+    "prices": {
+      "Visakhapatnam": {
+        "IOCL": {
+          "Petrol": 116.39,
+          "Diesel": 104.11,
+          "XP95": 125.64
+        }
+      },
+      "Vijayawada": {
+        "IOCL": {
+          "Petrol": 117.07,
+          "Diesel": 104.79,
+          "XP95": 126.31,
+          "XtraGreen": 110.08
+        }
+      },
+      "Itanagar": {
+        "IOCL": {
+          "Petrol": 97.7,
+          "Diesel": 87.11,
+          "XP95": 103.72,
+          "XtraGreen": 92.17
+        }
+      },
+      "Guwahati": {
+        "IOCL": {
+          "Petrol": 105.73,
+          "Diesel": 97.23,
+          "XP95": 114.68,
+          "XtraGreen": 102.74
+        }
+      },
+      "Dispur": {
+        "IOCL": {
+          "Petrol": 105.74,
+          "Diesel": 97.23,
+          "XP95": 114.68,
+          "XtraGreen": 102.74
+        }
+      },
+      "Patna": {
+        "IOCL": {
+          "Petrol": 113.35,
+          "Diesel": 99.36,
+          "XP95": 122.25,
+          "XtraGreen": 104.62
+        }
+      },
+      "Gaya": {
+        "IOCL": {
+          "Petrol": 114.32,
+          "Diesel": 100.27,
+          "XP95": 123.33,
+          "XtraGreen": 105.64
+        }
+      },
+      "Raipur": {
+        "IOCL": {
+          "Petrol": 108.06,
+          "Diesel": 101.32,
+          "XP95": 116.9,
+          "XtraGreen": 106.65
+        }
+      },
+      "Bhilai": {
+        "IOCL": {
+          "Petrol": 108.23,
+          "Diesel": 101.49,
+          "XP95": 117.19,
+          "XtraGreen": 106.93
+        }
+      },
+      "Panaji": {
+        "IOCL": {
+          "Petrol": 103.87,
+          "Diesel": 95.76,
+          "XP100": 167.35,
+          "XP95": 112.78
+        }
+      },
+      "Ahmedabad": {
+        "IOCL": {
+          "Petrol": 101.83,
+          "Diesel": 97.92,
+          "XP95": 110.37,
+          "XtraGreen": 103.16,
+          "XP100": 167.35
+        }
+      },
+      "Surat": {
+        "IOCL": {
+          "Petrol": 101.67,
+          "Diesel": 97.8,
+          "XP95": 110.23
+        }
+      },
+      "Vadodara": {
+        "IOCL": {
+          "Petrol": 101.46,
+          "Diesel": 97.57,
+          "XP95": 110.02
+        }
+      },
+      "Rajkot": {
+        "IOCL": {
+          "Petrol": 101.59,
+          "Diesel": 97.72,
+          "XP95": 110.15,
+          "XtraGreen": 102.96
+        }
+      },
+      "Gurugram": {
+        "IOCL": {
+          "Petrol": 102.97,
+          "Diesel": 95.64,
+          "XP95": 111.78,
+          "XtraGreen": 100.96
+        }
+      },
+      "Faridabad": {
+        "IOCL": {
+          "Petrol": 103.35,
+          "Diesel": 96.01,
+          "XP100": 167.35,
+          "XP95": 112.16,
+          "XtraGreen": 101.33
+        }
+      },
+      "Shimla": {
+        "IOCL": {
+          "Petrol": 103.17,
+          "Diesel": 95.03,
+          "XP95": 111.8,
+          "XtraGreen": 100.29
+        }
+      },
+      "Ranchi": {
+        "IOCL": {
+          "Petrol": 105.64,
+          "Diesel": 100.87,
+          "XP95": 114.55,
+          "XP100": 167.35,
+          "XtraGreen": 106.37
+        }
+      },
+      "Jamshedpur": {
+        "IOCL": {
+          "Petrol": 105.19,
+          "Diesel": 100.42,
+          "XP95": 114.09,
+          "XtraGreen": 105.92,
+          "XP100": 167.35
+        }
+      },
+      "Dhanbad": {
+        "IOCL": {
+          "Petrol": 105.79,
+          "Diesel": 101.01,
+          "XP95": 114.69,
+          "XtraGreen": 106.51
+        }
+      },
+      "Bengaluru": {
+        "IOCL": {
+          "Petrol": 110.93,
+          "Diesel": 98.8,
+          "XP95": 120.37,
+          "XtraGreen": 104.05,
+          "XP100": 167.35
+        }
+      },
+      "Mysuru": {
+        "IOCL": {
+          "Petrol": 110.44,
+          "Diesel": 98.39,
+          "XP95": 119.92,
+          "XtraGreen": 103.64
+        }
+      },
+      "Mangaluru": {
+        "IOCL": {
+          "Petrol": 110.06,
+          "Diesel": 98.0,
+          "XP95": 119.54,
+          "XtraGreen": 103.25,
+          "XP100": 167.35
+        }
+      },
+      "Thiruvananthapuram": {
+        "IOCL": {
+          "Petrol": 115.49,
+          "Diesel": 104.4,
+          "XP95": 124.81,
+          "XtraGreen": 109.73
+        }
+      },
+      "Kochi": {
+        "IOCL": {
+          "Petrol": 113.5,
+          "Diesel": 102.42,
+          "XP95": 122.83
+        }
+      },
+      "Kozhikode": {
+        "IOCL": {
+          "Petrol": 113.79,
+          "Diesel": 102.71,
+          "XP95": 123.12,
+          "XtraGreen": 108.04,
+          "XP100": 167.35
+        }
+      },
+      "Indore": {
+        "IOCL": {
+          "Petrol": 114.61,
+          "Diesel": 99.7,
+          "XP95": 123.92,
+          "XtraGreen": 104.95,
+          "XP100": 167.35
+        }
+      },
+      "Bhopal": {
+        "IOCL": {
+          "Petrol": 114.54,
+          "Diesel": 99.64,
+          "XP95": 123.88,
+          "XtraGreen": 104.9
+        }
+      },
+      "Jabalpur": {
+        "IOCL": {
+          "Petrol": 114.62,
+          "Diesel": 99.74,
+          "XP95": 123.96
+        }
+      },
+      "Gwalior": {
+        "IOCL": {
+          "Petrol": 114.48,
+          "Diesel": 99.59,
+          "XP95": 123.82,
+          "XtraGreen": 104.84
+        }
+      },
+      "Mumbai": {
+        "IOCL": {
+          "Petrol": 111.21,
+          "Diesel": 97.83,
+          "XP100": 167.35,
+          "XP95": 120.21,
+          "XtraGreen": 103.08
+        }
+      },
+      "Pune": {
+        "IOCL": {
+          "Petrol": 111.52,
+          "Diesel": 98.15,
+          "XP95": 120.53,
+          "XP100": 167.35,
+          "XtraGreen": 103.39
+        }
+      },
+      "Nagpur": {
+        "IOCL": {
+          "Petrol": 112.48,
+          "Diesel": 99.13,
+          "XP100": 167.35,
+          "XP95": 120.73,
+          "XtraGreen": 104.37
+        }
+      },
+      "Nashik": {
+        "IOCL": {
+          "Petrol": 112.46,
+          "Diesel": 99.07,
+          "XP95": 121.47,
+          "XtraGreen": 104.31
+        }
+      },
+      "Aurangabad": {
+        "IOCL": {
+          "Petrol": 112.86,
+          "Diesel": 99.48,
+          "XP95": 121.89,
+          "XtraGreen": 104.72
+        }
+      },
+      "Imphal": {
+        "IOCL": {
+          "Petrol": 106.9,
+          "Diesel": 92.59,
+          "XP95": 113.83
+        }
+      },
+      "Shillong": {
+        "IOCL": {
+          "Petrol": 102.64,
+          "Diesel": 94.13,
+          "XP95": 110.11,
+          "XtraGreen": 98.77,
+          "XP100": 167.35
+        }
+      },
+      "Aizawl": {
+        "IOCL": {
+          "Petrol": 106.54,
+          "Diesel": 95.16,
+          "XP95": 115.17,
+          "XtraGreen": 100.14,
+          "XP100": 167.35
+        }
+      },
+      "Kohima": {
+        "IOCL": {
+          "Petrol": 104.9,
+          "Diesel": 96.18,
+          "XP95": 111.09,
+          "XtraGreen": 101.47,
+          "XP100": 167.35
+        }
+      },
+      "Dimapur": {
+        "IOCL": {
+          "Petrol": 103.67,
+          "Diesel": 95.21,
+          "XP95": 109.86,
+          "XtraGreen": 100.51
+        }
+      },
+      "Bhubaneswar": {
+        "IOCL": {
+          "Petrol": 109.0,
+          "Diesel": 100.68,
+          "XP95": 118.29,
+          "XtraGreen": 106.27
+        }
+      },
+      "Cuttack": {
+        "IOCL": {
+          "Petrol": 109.33,
+          "Diesel": 101.02,
+          "XP95": 118.65
+        }
+      },
+      "Ludhiana": {
+        "IOCL": {
+          "Petrol": 105.57,
+          "Diesel": 95.48,
+          "XP95": 114.19
+        }
+      },
+      "Amritsar": {
+        "IOCL": {
+          "Petrol": 105.56,
+          "Diesel": 95.47
+        }
+      },
+      "Jalandhar": {
+        "IOCL": {
+          "Petrol": 104.82,
+          "Diesel": 94.76,
+          "XP95": 113.43,
+          "XtraGreen": 100.12
+        }
+      },
+      "Jaipur": {
+        "IOCL": {
+          "Petrol": 112.69,
+          "Diesel": 97.78,
+          "XP95": 121.97,
+          "XtraGreen": 103.23
+        }
+      },
+      "Jodhpur": {
+        "IOCL": {
+          "Petrol": 112.49,
+          "Diesel": 97.63,
+          "XP95": 121.79,
+          "XtraGreen": 103.08
+        }
+      },
+      "Udaipur": {
+        "IOCL": {
+          "Petrol": 113.46,
+          "Diesel": 98.5,
+          "XP95": 122.76,
+          "XP100": 167.35,
+          "XtraGreen": 103.95
+        }
+      },
+      "Kota": {
+        "IOCL": {
+          "Petrol": 112.21,
+          "Diesel": 97.36,
+          "XP100": 167.35,
+          "XP95": 121.52
+        }
+      },
+      "Gangtok": {
+        "IOCL": {
+          "Petrol": 110.8,
+          "Diesel": 97.7,
+          "XP95": 116.85
+        }
+      },
+      "Chennai": {
+        "IOCL": {
+          "Petrol": 107.74,
+          "Diesel": 99.55,
+          "XP95": 115.9
+        }
+      },
+      "Coimbatore": {
+        "IOCL": {
+          "Petrol": 108.23,
+          "Diesel": 100.06,
+          "XP95": 116.39,
+          "XP100": 167.35,
+          "XtraGreen": 105.05
+        }
+      },
+      "Madurai": {
+        "IOCL": {
+          "Petrol": 108.46,
+          "Diesel": 100.3,
+          "XP95": 116.62,
+          "XtraGreen": 105.3
+        }
+      },
+      "Tiruchirappalli": {
+        "IOCL": {
+          "Petrol": 108.23,
+          "Diesel": 100.06,
+          "XP95": 116.37,
+          "XtraGreen": 105.05
+        }
+      },
+      "Hyderabad": {
+        "IOCL": {
+          "Petrol": 115.73,
+          "Diesel": 103.82,
+          "XP95": 125.17
+        }
+      },
+      "Warangal": {
+        "IOCL": {
+          "Petrol": 115.13,
+          "Diesel": 103.29,
+          "XP95": 124.61,
+          "XtraGreen": 108.98
+        }
+      },
+      "Agartala": {
+        "IOCL": {
+          "Petrol": 104.95,
+          "Diesel": 93.85,
+          "XP95": 115.32,
+          "XtraGreen": 98.97
+        }
+      },
+      "Lucknow": {
+        "IOCL": {
+          "Petrol": 101.89,
+          "Diesel": 95.36,
+          "XP95": 110.47,
+          "XtraGreen": 100.97
+        }
+      },
+      "Kanpur": {
+        "IOCL": {
+          "Petrol": 101.59,
+          "Diesel": 95.06,
+          "XP95": 110.17,
+          "XtraGreen": 100.67
+        }
+      },
+      "Agra": {
+        "IOCL": {
+          "Petrol": 101.54,
+          "Diesel": 95.02,
+          "XP95": 110.15,
+          "XtraGreen": 100.63
+        }
+      },
+      "Varanasi": {
+        "IOCL": {
+          "Petrol": 102.51,
+          "Diesel": 95.96,
+          "XP95": 111.11,
+          "XtraGreen": 101.57,
+          "XP100": 0.0
+        }
+      },
+      "Prayagraj": {
+        "IOCL": {
+          "Petrol": 101.96,
+          "Diesel": 95.46,
+          "XP95": 110.56,
+          "XtraGreen": 101.07,
+          "XP100": 167.35
+        }
+      },
+      "Noida": {
+        "IOCL": {
+          "Petrol": 102.12,
+          "Diesel": 95.56,
+          "XP95": 110.68,
+          "XtraGreen": 101.17
+        }
+      },
+      "Dehradun": {
+        "IOCL": {
+          "Petrol": 100.51,
+          "Diesel": 95.9,
+          "XP95": 108.95,
+          "XtraGreen": 101.51
+        }
+      },
+      "Kolkata": {
+        "IOCL": {
+          "Petrol": 113.47,
+          "Diesel": 99.82,
+          "XP95": 123.01,
+          "XtraGreen": 105.11
+        }
+      },
+      "Howrah": {
+        "IOCL": {
+          "Petrol": 113.51,
+          "Diesel": 99.82,
+          "XP95": 123.01
+        }
+      },
+      "Siliguri": {
+        "IOCL": {
+          "Petrol": 113.18,
+          "Diesel": 99.54,
+          "XP95": 122.72,
+          "XtraGreen": 104.83,
+          "XP100": 167.35
+        }
+      },
+      "Port Blair": {
+        "IOCL": {
+          "Petrol": 88.66,
+          "Diesel": 84.56,
+          "XP95": 94.36,
+          "XtraGreen": 89.16
+        }
+      },
+      "Chandigarh": {
+        "IOCL": {
+          "Petrol": 101.54,
+          "Diesel": 89.47,
+          "XP95": 110.28,
+          "XP100": 167.35
+        }
+      },
+      "Silvassa": {
+        "IOCL": {
+          "Petrol": 99.63,
+          "Diesel": 95.52,
+          "XP95": 107.94,
+          "XtraGreen": 100.58
+        }
+      },
+      "New Delhi": {
+        "IOCL": {
+          "Petrol": 102.12,
+          "Diesel": 95.2,
+          "XP95": 109.24,
+          "XP100": 0.0,
+          "XtraGreen": 100.52
+        }
+      },
+      "Srinagar": {
+        "IOCL": {
+          "Petrol": 108.43,
+          "Diesel": 96.42,
+          "XP95": 117.59
+        }
+      },
+      "Jammu": {
+        "IOCL": {
+          "Petrol": 104.13,
+          "Diesel": 92.81,
+          "XP95": 113.29
+        }
+      },
+      "Leh": {
+        "IOCL": {
+          "Petrol": 109.78,
+          "Diesel": 94.51,
+          "XP95": 118.78
+        }
+      },
+      "Kavaratti": {
+        "IOCL": {
+          "Petrol": 107.5,
+          "Diesel": 102.8
+        }
+      },
+      "Puducherry": {
+        "IOCL": {
+          "Petrol": 103.61,
+          "Diesel": 93.79,
+          "XP95": 112.44
+        }
+      }
+    }
   }
 ]
