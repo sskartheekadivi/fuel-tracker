@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "prices": {
     "Visakhapatnam": {
       "IOCL": {
@@ -308,8 +308,7 @@
         "Petrol": 106.54,
         "Diesel": 95.16,
         "XP95": 115.17,
-        "XtraGreen": 100.14,
-        "XP100": 167.35
+        "XtraGreen": 100.14
       }
     },
     "Kohima": {
@@ -529,8 +528,7 @@
     "Howrah": {
       "IOCL": {
         "Petrol": 113.51,
-        "Diesel": 99.82,
-        "XP95": 123.01
+        "Diesel": 99.82
       }
     },
     "Siliguri": {
