@@ -107102,5 +107102,404 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-11-26",
+    "prices": {
+      "Visakhapatnam": {
+        "HPCL": {
+          "Petrol": 116.38,
+          "Diesel": 104.1,
+          "Power95": 126.39,
+          "TurboJet": 107.71,
+          "Power100": 168.0
+        }
+      },
+      "Vijayawada": {
+        "HPCL": {
+          "Petrol": 117.16,
+          "Diesel": 104.88,
+          "Power95": 127.18,
+          "TurboJet": 108.49
+        }
+      },
+      "Itanagar": {},
+      "Guwahati": {
+        "HPCL": {
+          "Petrol": 105.74,
+          "Diesel": 97.24,
+          "Power95": 115.51,
+          "TurboJet": 100.99
+        }
+      },
+      "Dispur": {},
+      "Patna": {},
+      "Gaya": {},
+      "Raipur": {},
+      "Bhilai": {
+        "HPCL": {
+          "Petrol": 108.24,
+          "Diesel": 101.5,
+          "Power95": 117.89,
+          "TurboJet": 105.1,
+          "Power100": 168.0
+        }
+      },
+      "Panaji": {},
+      "Ahmedabad": {
+        "HPCL": {
+          "Petrol": 101.77,
+          "Diesel": 97.88,
+          "Power95": 111.39,
+          "TurboJet": 101.39,
+          "Power100": 168.0
+        }
+      },
+      "Surat": {
+        "HPCL": {
+          "Petrol": 101.75,
+          "Diesel": 97.89,
+          "Power95": 111.08,
+          "TurboJet": 101.39,
+          "Power100": 168.0
+        }
+      },
+      "Vadodara": {
+        "HPCL": {
+          "Petrol": 101.41,
+          "Diesel": 97.52,
+          "Power95": 110.73,
+          "TurboJet": 101.02
+        }
+      },
+      "Rajkot": {
+        "HPCL": {
+          "Petrol": 101.56,
+          "Diesel": 97.69,
+          "Power95": 110.88,
+          "TurboJet": 101.2,
+          "Power100": 168.0
+        }
+      },
+      "Gurugram": {},
+      "Faridabad": {},
+      "Shimla": {
+        "HPCL": {
+          "Petrol": 103.2,
+          "Diesel": 95.3,
+          "Power95": 112.36,
+          "TurboJet": 98.62
+        }
+      },
+      "Ranchi": {
+        "HPCL": {
+          "Petrol": 105.63,
+          "Diesel": 100.85,
+          "Power95": 115.34,
+          "TurboJet": 104.54,
+          "Power100": 168.0
+        }
+      },
+      "Jamshedpur": {},
+      "Dhanbad": {},
+      "Bengaluru": {
+        "HPCL": {
+          "Petrol": 110.89,
+          "Diesel": 98.8,
+          "Power95": 121.11,
+          "TurboJet": 102.36
+        }
+      },
+      "Mysuru": {
+        "HPCL": {
+          "Petrol": 110.42,
+          "Diesel": 98.37,
+          "Power95": 120.35,
+          "TurboJet": 101.93
+        }
+      },
+      "Mangaluru": {},
+      "Thiruvananthapuram": {},
+      "Kochi": {},
+      "Kozhikode": {
+        "HPCL": {
+          "Petrol": 113.76,
+          "Diesel": 102.69,
+          "Power95": 123.84,
+          "TurboJet": 106.29
+        }
+      },
+      "Indore": {
+        "HPCL": {
+          "Petrol": 114.5,
+          "Diesel": 99.63,
+          "Power95": 124.76,
+          "TurboJet": 103.19
+        }
+      },
+      "Bhopal": {},
+      "Jabalpur": {
+        "HPCL": {
+          "Petrol": 115.44,
+          "Diesel": 100.47,
+          "Power95": 125.31,
+          "TurboJet": 104.01
+        }
+      },
+      "Gwalior": {
+        "HPCL": {
+          "Petrol": 114.27,
+          "Diesel": 99.4,
+          "Power95": 124.54,
+          "TurboJet": 102.95
+        }
+      },
+      "Mumbai": {},
+      "Pune": {
+        "HPCL": {
+          "Petrol": 112.0,
+          "Diesel": 98.62,
+          "Power95": 121.71,
+          "TurboJet": 102.15,
+          "Power100": 168.0
+        }
+      },
+      "Nagpur": {
+        "HPCL": {
+          "Petrol": 111.87,
+          "Diesel": 98.56,
+          "Power95": 121.6,
+          "TurboJet": 102.12,
+          "Power100": 168.0
+        }
+      },
+      "Nashik": {},
+      "Aurangabad": {
+        "HPCL": {
+          "Petrol": 112.07,
+          "Diesel": 98.71,
+          "Power95": 121.79,
+          "TurboJet": 102.28
+        }
+      },
+      "Imphal": {},
+      "Shillong": {
+        "HPCL": {
+          "Petrol": 102.64,
+          "Diesel": 94.22,
+          "Power95": 110.71,
+          "TurboJet": 97.32
+        }
+      },
+      "Aizawl": {
+        "HPCL": {
+          "Petrol": 106.53,
+          "Diesel": 95.16,
+          "Power95": 115.85,
+          "TurboJet": 98.56
+        }
+      },
+      "Kohima": {
+        "HPCL": {
+          "Petrol": 104.91,
+          "Diesel": 96.19,
+          "Power95": 114.59,
+          "TurboJet": 99.84
+        }
+      },
+      "Dimapur": {
+        "HPCL": {
+          "Petrol": 103.67,
+          "Diesel": 95.22,
+          "Power95": 113.35,
+          "TurboJet": 98.88
+        }
+      },
+      "Bhubaneswar": {},
+      "Cuttack": {
+        "HPCL": {
+          "Petrol": 109.27,
+          "Diesel": 100.97,
+          "Power95": 119.34,
+          "TurboJet": 104.68,
+          "Power100": 168.0
+        }
+      },
+      "Ludhiana": {
+        "HPCL": {
+          "Petrol": 105.55,
+          "Diesel": 95.47,
+          "Power95": 114.93,
+          "TurboJet": 98.94
+        }
+      },
+      "Amritsar": {},
+      "Jalandhar": {
+        "HPCL": {
+          "Petrol": 105.55,
+          "Diesel": 95.47,
+          "Power95": 114.93,
+          "TurboJet": 98.94
+        }
+      },
+      "Jaipur": {
+        "HPCL": {
+          "Petrol": 112.65,
+          "Diesel": 97.78,
+          "Power95": 122.9,
+          "TurboJet": 101.32,
+          "Power100": 168.0
+        }
+      },
+      "Jodhpur": {},
+      "Udaipur": {
+        "HPCL": {
+          "Petrol": 113.44,
+          "Diesel": 98.49,
+          "Power95": 123.69,
+          "TurboJet": 102.04
+        }
+      },
+      "Kota": {
+        "HPCL": {
+          "Petrol": 112.2,
+          "Diesel": 97.34,
+          "Power95": 122.44,
+          "TurboJet": 100.9
+        }
+      },
+      "Gangtok": {},
+      "Chennai": {
+        "HPCL": {
+          "Petrol": 107.73,
+          "Diesel": 99.55,
+          "Power95": 116.55,
+          "TurboJet": 102.85
+        }
+      },
+      "Coimbatore": {
+        "HPCL": {
+          "Petrol": 108.22,
+          "Diesel": 100.05,
+          "Power95": 117.03,
+          "TurboJet": 103.35,
+          "Power100": 168.0
+        }
+      },
+      "Madurai": {},
+      "Tiruchirappalli": {
+        "HPCL": {
+          "Petrol": 108.17,
+          "Diesel": 100.02,
+          "Power95": 116.99,
+          "TurboJet": 103.32
+        }
+      },
+      "Hyderabad": {
+        "HPCL": {
+          "Petrol": 115.62,
+          "Diesel": 103.76,
+          "Power95": 125.94,
+          "TurboJet": 107.5
+        }
+      },
+      "Warangal": {
+        "HPCL": {
+          "Petrol": 115.11,
+          "Diesel": 103.27,
+          "Power95": 125.43,
+          "TurboJet": 107.02
+        }
+      },
+      "Agartala": {},
+      "Lucknow": {},
+      "Kanpur": {
+        "HPCL": {
+          "Petrol": 101.56,
+          "Diesel": 95.04,
+          "Power95": 110.94,
+          "TurboJet": 98.58,
+          "Power100": 168.0
+        }
+      },
+      "Agra": {
+        "HPCL": {
+          "Petrol": 101.64,
+          "Diesel": 95.11,
+          "Power95": 111.02,
+          "TurboJet": 98.65
+        }
+      },
+      "Varanasi": {
+        "HPCL": {
+          "Petrol": 101.94,
+          "Diesel": 95.44,
+          "Power95": 111.33,
+          "TurboJet": 98.98,
+          "Power100": 168.0
+        }
+      },
+      "Prayagraj": {},
+      "Noida": {
+        "HPCL": {
+          "Petrol": 102.08,
+          "Diesel": 95.55,
+          "Power95": 111.46,
+          "TurboJet": 99.1,
+          "Power100": 168.0
+        }
+      },
+      "Dehradun": {
+        "HPCL": {
+          "Petrol": 100.48,
+          "Diesel": 95.89,
+          "Power95": 109.71,
+          "TurboJet": 99.38,
+          "Power100": 168.0
+        }
+      },
+      "Kolkata": {
+        "HPCL": {
+          "Petrol": 113.5,
+          "Diesel": 99.85,
+          "Power95": 123.73,
+          "TurboJet": 103.38,
+          "Power100": 168.0
+        }
+      },
+      "Howrah": {
+        "HPCL": {
+          "Petrol": 113.46,
+          "Diesel": 99.81,
+          "Power95": 123.69,
+          "TurboJet": 103.34,
+          "Power100": 168.0
+        }
+      },
+      "Siliguri": {},
+      "Port Blair": {},
+      "Chandigarh": {},
+      "Silvassa": {},
+      "New Delhi": {},
+      "Srinagar": {},
+      "Jammu": {
+        "HPCL": {
+          "Petrol": 104.1,
+          "Diesel": 92.81,
+          "Power95": 114.0,
+          "TurboJet": 96.41
+        }
+      },
+      "Leh": {
+        "HPCL": {
+          "Petrol": 109.77,
+          "Diesel": 94.51,
+          "Power95": 119.02,
+          "TurboJet": 97.8
+        }
+      },
+      "Kavaratti": {},
+      "Puducherry": {}
+    }
   }
 ]
